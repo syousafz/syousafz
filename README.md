@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Shabano!
-- 👀 I’m currently seeking summer 2024 internships!
+- 👋 Hi, I’m Shahbano!
 - 📫 Reach me at syousafz@uwaterloo.ca
 
 <!---
